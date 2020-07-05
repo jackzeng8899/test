@@ -7,5 +7,6 @@ public class CCC {
         String yy="dkkkdk";
         String mm="dkkkdk";
         String nn="dkkkdk";
+        String bb="dkkkdk";
     }
 }
