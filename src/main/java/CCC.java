@@ -3,5 +3,6 @@ public class CCC {
         String jj="jjjjjjj";
         String cc="cccccccccc";
         String dd="dddddd";
+        String ee="dkkkdk";
     }
 }
